@@ -42,9 +42,7 @@ Ensures the input follows the standard protocol (local-part@domain.extension):
 3. (Optional) Install Graphviz for visualization:
    ```bash
    pip install graphviz
-4.Run the application:
-    ```bash
-   python "email and password validator.py"
+4.Run the application.
 
    
 Developed as part of the Automata Theory course at PAF-KIET.
